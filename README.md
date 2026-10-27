@@ -2,7 +2,7 @@
 
 # Password Strength Checker
 
-A beginner-friendly Python command-line project that evaluates a **sample password** against five basic security rules. It is designed to practise Python strings, conditional statements, loops, functions, and Git/GitHub version control.
+A beginner-friendly Python command-line project that evaluates a **password** against five basic security rules. It is designed to practise Python strings, conditional statements, loops, functions.
 
 
 ## Features
